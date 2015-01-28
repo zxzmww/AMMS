@@ -1,0 +1,27 @@
+/*Global Styles*/
+body { background: #f1f4f7; }
+.bg-primary .glyphicon-remove { color: #5f6468; }
+.bg-primary .glyphicon-remove:hover { color: #ef4040; }
+.no-padding { padding: 0; margin: 0; }
+.glyphicon-xl { font-size: 6em; }
+.glyphicon-l { font-size: 3em; }
+.glyphicon-m { font-size: 1.5em; }
+.glyphicon-s { font-size: 0.75em; }
+.navbar-header .navbar-brand { color: #fff; font-size: 16px; text-transform: uppercase; font-weight: 500; letter-spacing: 2px; }
+/*Panels*/
+.panel { border: 0; }
+.panel-heading { font-size: 14px; font-weight: bold; letter-spacing: 0.1em; }
+.panel-default .panel-heading { background: #F9FAFC; border-bottom: 1px solid #eee; color: #5f6468; }
+/*Widget*/
+.widget-left { height: 80px; padding-top: 15px; text-align: center; }
+.widget-right { text-align: left; line-height: 1.6em; margin: 0px; padding: 20px; height: 80px; color: #999; font-weight: 300; background: #fff; }
+ @media (max-width: 768px) {
+.widget-right { width: 100%; text-align: center; }
+}
+.widget-right .text-muted { color: #9fadbb; }
+.widget-right .large { color: #5f6468; }
+.panel-blue .widget-left { background: #30a5ff; color: #fff; }
+.panel-teal .widget-left { background: #1ebfae; color: #fff; }
+.panel-orange .widget-left { background: #ffb53e; color: #fff; }
+.panel-red .widget-left { background: #f9243f; color: #fff; }
+.panel-widget { background: #fff; }
