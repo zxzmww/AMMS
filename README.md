@@ -25,5 +25,5 @@ Auto maintenance management system 中文名称 **汽车维修管理系统**
 - kindeditor（在线HTML编辑器）
 - Tree.class.php（通用的树型类）
 - Dynamic Table Column Operate（动态表格操作）[链接](http://www.blogjava.net/absolutedo/archive/2009/03/13/259488.html)
-- 二级联动下拉菜单[链接](http://www.helloweba.com/view-blog-88.html)
+- 二级联动下拉菜单 [链接](http://www.helloweba.com/view-blog-88.html)
 
